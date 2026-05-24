@@ -1,9 +1,9 @@
 # World Life Expectancy - SQL
 ### Performed data cleaning and exploratory analysis on the global life expectancy dataset to identify relationships between life expectancy and socioeconomic indicators.
 
-World Life Expectancy data: 
-SQL Data Cleaning: 
-SQL EDA: 
+[WorldLifeExpectancy.csv](https://github.com/ayydanny/SQL_World_Life_Expectancy/blob/main/WorldLifeExpectancy.csv)
+[SQL Data Cleaning Script](https://github.com/ayydanny/SQL_World_Life_Expectancy/blob/main/world_life_expectancy_data_cleaning.sql)
+[SQL EDA Script](https://github.com/ayydanny/SQL_World_Life_Expectancy/blob/main/world_life_expectancy_eda.sql)
 
 ### Tool used: SQL
 * Window Functions
